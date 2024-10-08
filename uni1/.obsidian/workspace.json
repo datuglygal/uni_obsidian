@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9af382032a21b352",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a2b22f6ea402c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee1f0362209d5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analisi/Gli insiemi 04-10-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bdd2dcee28260dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "65caa2d926111ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6583eb52f8b7f0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f1e01d8d726f6d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47501670372fed36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ec95c67c3803377e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e7e56cf2087af23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7009bd9498b20b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "analisi/Gli insiemi 04-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1ba079fbfb65599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "analisi/Gli insiemi 04-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53290956fcba3d36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d1cad2d7ddae137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "analisi/Gli insiemi 04-10-24.md"
+              }
+            }
+          },
+          {
+            "id": "3c1ffd75d550b19d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8922e12b4c74c83d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d6583eb52f8b7f0b",
+  "lastOpenFiles": [
+    "analisi/Logica binaria.md",
+    "Pasted image 20241005125547.png",
+    "Senza nome.canvas",
+    "pr1/pr1mod1/Senza nome.md",
+    "analisi/slide/2-Insiemi.pdf",
+    "analisi/libri/Analisi matematica (Vol. 1)_ (Z-Library).pdf",
+    "analisi/Gli insiemi 04-10-24.md",
+    "analisi/slide/1-Logica.pdf",
+    "YUN.png",
+    "pr1/pr1mod1/Dispense PR1 (1).pdf",
+    "fi/L’informatica e il concetto di algoritmo – I linguaggi per la programmazione di algoritmi.pdf",
+    "fi/Introduzione.md",
+    "analisi/libri",
+    "analisi/slide",
+    "pr1/pr1mod2",
+    "pr1/pr1mod1",
+    "pr1/pr1mod2/30-09-24.md",
+    "analisi/libri/TEORIA     Pagani          (Analisi 2).pdf",
+    "pr1/pr1mod2/03-10-24.md",
+    "Benvenuto.md"
+  ]
+}
