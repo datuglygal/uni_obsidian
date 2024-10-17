@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAppWindow",
-      "LiAlbum"
+      "LiArmchair",
+      "LiBanana",
+      "LiArrowDown01",
+      "LiAlignLeft",
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +34,17 @@
     "debugMode": false
   },
   "analisi/libri": "LiAlbum",
-  "analisi/slide": "LiAppWindow"
+  "analisi/slide": "LiAppWindow",
+  "analisi": "LiAmpersands",
+  "fdi": "LiActivity",
+  "analisi/appunti": "LiAlignLeft",
+  "fdi/appunti": "LiAlignLeft",
+  "pr1/pr1mod1/appunti": "LiAlignLeft",
+  "pr1/pr1mod2/appunti": "LiAlignLeft",
+  "fdi/slide": "LiAppWindow",
+  "pr1/pr1mod2/slide": "LiAppWindow",
+  "pr1/pr1mod1/dispense": "LiAlbum",
+  "pr1": "LiArrowDown01",
+  "pr1/pr1mod1": "LiArmchair",
+  "pr1/pr1mod2": "LiBanana"
 }
