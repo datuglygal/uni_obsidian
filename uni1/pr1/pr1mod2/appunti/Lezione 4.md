@@ -56,7 +56,68 @@ int main(void) {
     return 0;  
 }
 ```
-###### versione tutor
+
+#### Operatore ternario 
+`virgola= aux !=0 ? true :false;`
+`bereAlc = eta > 21 ? ovunque : solo europa;`
+
+
+#### Lo switch
+```C
+switch (operazione) {
+case ADDIZIONE:
+	break;
+case SOTTRAZIONE:
+	break;
+case MOLTIPLICAZIONE:
+	break;
+case DIVISIONE:
+	break;
+case RESTO:
+	break;
+case POTENZA:
+	break;
+}
+```
+il break non è obbligatorio, ma andrà ad effettuare quello che gli abbiamo imposto finchè non ne troverà uno (a cascata).
+agisce solo su condizioni di uguaglianza
+#### Generazione casuale di numeri
+```C
+#define MIN 10
+#define MAX 100
+#define DEC 2
+#include <stdlib.h>
+#include <time.h>
+//int seed casuale
+srand(time(NULL)); //seed random, dal 1 gennaio 1970
+op1= rand(); //numero pseudocasuale intero compreso tra 0 ed il numero più alto calcolabile dal pc
+op2= rand() %(100+1); //numero intero pseudocasuale compreso tra 0 e 100
+op3= MIN+ rand() %(MAX-MIN+1);// numero pseudocasuale compreso tra il minimo ed il massimo forniti (10 e 100)
+min= MIN*pow(10,DEC);
+max= MAX*pow(10,DEC);
+op4= min+ rand()%(max-min+1);
+op4 /=pow(10,DEC);//numero pseudocasuale decimale compreso tra 0 e 100
+```
+
+#### Indentazione
+necessaria per la lettura da parte di chiunque
+```C
+#indlude <stdio.h>
+int main(){
+	int a=1;
+
+	if (a==1){
+		printf("a uguale a 1");
+	} else {
+		printf("a diverso da 1");
+	}
+	return 0;
+}
+```
+
+
+
+###### calcolatrice versione tutor
 
 ```C
 #include <stdio.h>
@@ -533,63 +594,5 @@ printf("Il risultato può essere un voto di un esame\n");
 
 return 0;
 
-}
-```
-
-#### Operatore ternario 
-`virgola= aux !=0 ? true :false;`
-`bereAlc = eta > 21 ? ovunque : solo europa;`
-
-
-#### Lo switch
-```C
-switch (operazione) {
-case ADDIZIONE:
-	break;
-case SOTTRAZIONE:
-	break;
-case MOLTIPLICAZIONE:
-	break;
-case DIVISIONE:
-	break;
-case RESTO:
-	break;
-case POTENZA:
-	break;
-}
-```
-il break non è obbligatorio, ma andrà ad effettuare quello che gli abbiamo imposto finchè non ne troverà uno (a cascata).
-agisce solo su condizioni di uguaglianza
-#### Generazione casuale di numeri
-```C
-#define MIN 10
-#define MAX 100
-#define DEC 2
-#include <stdlib.h>
-#include <time.h>
-//int seed casuale
-srand(time(NULL)); //seed random, dal 1 gennaio 1970
-op1= rand(); //numero pseudocasuale intero compreso tra 0 ed il numero più alto calcolabile dal pc
-op2= rand() %(100+1); //numero intero pseudocasuale compreso tra 0 e 100
-op3= MIN+ rand() %(MAX-MIN+1);// numero pseudocasuale compreso tra il minimo ed il massimo forniti (10 e 100)
-min= min*pow(10,DEC);
-max= max*pow(10,DEC);
-op4= min+ rand()%(max-min+1);
-op4 /=pow(10,DEC);//numero pseudocasuale decimale compreso tra 0 e 100
-```
-
-#### Indentazione
-necessaria per la lettura da parte di chiunque
-```C
-#indlude <stdio.h>
-int main(){
-	int a=1;
-
-	if (a==1){
-		printf("a uguale a 1");
-	} else {
-		printf("a diverso da 1");
-	}
-	return 0;
 }
 ```

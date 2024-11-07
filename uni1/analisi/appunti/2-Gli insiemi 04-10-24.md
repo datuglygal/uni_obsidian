@@ -51,6 +51,7 @@ La definizione deve essere univoca e <u>non soggettiva</u>. Deve sempre essere p
 #### <font color="#31859b">Insieme delle parti</font>
 - L’insieme delle parti di un insieme A è un insieme i cui elementi sono tutti i sottoinsiemi, propri ed impropri dell’insieme A.
 
+## Operazioni insiemistiche
 #### <font color="#31859b">Unione</font>
 - Si dice insieme unione degli insiemi A e B un insieme C avente come elementi tutti gli elementi di A o di B, presi una sola volta.
 	AB={x|xA  xB}

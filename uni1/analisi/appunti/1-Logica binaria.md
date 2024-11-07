@@ -112,15 +112,28 @@ il "corretto ragionamento", propagare verità dalle premesse alla conclusione
 
 ---
 
-### Porte logiche
+### Porte Logiche
 
-una porta logia è un circuito elementare che implementa la funzionalità degli operatori logici.
+- Le porte logiche sono circuiti elementari che implementano le funzioni degli operatori logici, come NOT, AND e OR.
 
-NOT
-AND
-OR
+### Proposizioni Aperte e Quantificatori
 
+- Una proposizione aperta, o predicato, contiene variabili. Il suo valore di verità dipende dal valore assegnato alle variabili.
+- Il dominio di una variabile è l'insieme dei valori che può assumere.
+- L'insieme di verità di un predicato comprende i valori del dominio che rendono il predicato vero.
+- I quantificatori chiudono un predicato:
+    - **Quantificatore universale (∀):** "per ogni".
+    - **Quantificatore esistenziale (∃):** "esiste".
+    - **Quantificatore esistenziale unico (∃!):** "esiste un solo".
+- Negazione dei quantificatori:
+    - **¬(∀x, p(x)) ⇔ ∃x, ¬p(x):** "Non tutti gli x soddisfano p(x)" è equivalente a "Esiste almeno un x che non soddisfa p(x)".
+    - **¬(∃x, p(x)) ⇔ ∀x, ¬p(x):** "Non esiste un x che soddisfa p(x)" è equivalente a "Tutti gli x non soddisfano p(x)".
 
+### Metodi Deduttivi
+
+- **Modus ponens:** Se p è vero e p implica q, allora q è vero.
+- **Riduzione all'assurdo:** Se assumere ¬p porta a una contraddizione, allora p deve essere vero.
+- **Induzione matematica:** Si dimostra che una proprietà è vera per un caso base, quindi si assume che sia vera per un valore arbitrario n e si dimostra che è vera per n+1.
 
 
 

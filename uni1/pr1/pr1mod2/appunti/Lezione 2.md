@@ -4,7 +4,7 @@
 
 
 
-tipo char e valori interi
+###### tipo char e valori interi
 - il codice ascii associa un identificativo numerico: (tabelle nelle slide)
 	- La lettera A è associata al numero 65
 	- la lettera a è invece 97
