@@ -11,5 +11,9 @@
   "symbols-prettifier",
   "table-editor-obsidian",
   "drawio-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-full-calendar",
+  "obsidian-banners",
+  "obsidian-markmind"
 ]
