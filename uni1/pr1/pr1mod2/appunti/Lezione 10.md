@@ -1,12 +1,12 @@
-- Limiti di interi e float
-- enumerazioni
-- typedef
-- strutture
+- [[Lezione 10#Limiti del compilatore|Limiti di interi e float]]
+- [[Lezione 10#Enumerazioni|Enumerazioni]]
+- [[Lezione 10#Typedef|Typedef]]
+- [[Lezione 10#Strutture|Strutture]]
 	- dichiarazione
 	- inizializzazione
 	- accesso 
 	- modifica
-- strutture annidate
+	- [[Lezione 10#Strutture annidate|Strutture annidate]]
 ---
 ### Limiti del compilatore
 
@@ -82,7 +82,7 @@ int main(){
 }
 ```
 
-keyword: typedef
+### Typedef
 
 ```C
 //forma compatta
@@ -99,7 +99,6 @@ int main(){
 }
 
 
-----------------------------------------------------------------------------------
 //esempi di enumerazioni
 
 typedef enum {LUN, MAR, MER, GIO, VEN, SAB, DOM} Giorno;

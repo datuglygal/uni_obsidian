@@ -1,6 +1,8 @@
 ### Tablet (samsung galaxy tab S9 FE, 128g)
 - amazon 
 	https://www.amazon.it/dp/B0CTMS15JP/ref=twister_B0CZTXY4XQ?_encoding=UTF8
+	- cover per FE+
+		https://www.amazon.it/dp/B0CSVB8Q5D/ref=sspa_dk_detail_5?sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM
 - unieuro
 	- FE+(8/128)
 		https://www.unieuro.it/online/Tablet/Samsung-Galaxy-Tab-S9-FE-Tablet-Android-12-4-Pollici-TFT-LCD-PLS-Wi-Fi-RAM-8-GB-128-GB-Tablet-Android-13-Gray-pidSAMSMX610NZAAEUE?gad_source=1
